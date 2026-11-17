@@ -149,7 +149,9 @@ A IA apresentou o plano em quatro etapas: (1) mapear os dados mínimos de entrad
 
 **Ajuste antes da execução:** acrescentei a exigência de não sugerir formatação, exclusão ou troca de peças sem consentimento e de separar observações de hipóteses. Registro detalhado: [`minha-entrega/plano.md`](minha-entrega/plano.md).
 
-**Print do plano:** pendente de anexar a captura real da conversa, antes da submissão na DIO. Nenhuma imagem artificial foi apresentada como print da execução.
+**Captura do plano publicado no GitHub:** a imagem abaixo é um print real do registro de planejamento, depois de salvo. Ela é uma evidência complementar, **não** um print da conversa com a IA. O print da conversa ainda precisa ser anexado antes da submissão na DIO.
+
+![Captura real da página do plano no GitHub](minha-entrega/evidencias/plano-github.jpg)
 
 ### O Resultado
 
@@ -157,7 +159,11 @@ Foram produzidos: [checklist operacional](minha-entrega/checklist-triagem-notebo
 
 **Conferência preliminar:** o checklist distingue o que foi relatado do que foi observado, oferece estados para testes não realizados e exige aprovação antes de procedimentos que alterem arquivos ou componentes. Nos dois cenários fictícios, as mensagens não afirmam causa ou prazo desconhecidos. Não houve teste físico em notebook real nesta etapa.
 
-**Print do resultado:** pendente de anexar a captura real da conversa antes da submissão na DIO. **Validação final pelo responsável da loja:** pendente; não apresentar esta revisão preliminar como homologação em uso.
+**Captura do resultado publicado no GitHub:** a imagem abaixo mostra o registro dos testes, como foi salvo. É uma evidência complementar, **não** um print da conversa com a IA. O print da conversa ainda precisa ser anexado antes da submissão na DIO.
+
+![Captura real da página dos resultados no GitHub](minha-entrega/evidencias/resultado-github.jpg)
+
+**Validação final pelo responsável da loja:** pendente; não apresentar esta revisão preliminar como homologação em uso.
 
 ### Como Foi para Você
 
